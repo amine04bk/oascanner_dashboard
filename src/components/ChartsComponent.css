@@ -1,0 +1,19 @@
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically if height is set */
+    padding: 20px;
+  }
+  
+  .chart {
+    width: 80%; /* Adjust width as needed */
+    max-width: 1000px; /* Set a maximum width for larger screens */
+    margin-bottom: 40px; /* Space between charts */
+  }
+  
+  h2 {
+    text-align: center; /* Center align titles */
+    margin-bottom: 20px; /* Space below the titles */
+  }
+  

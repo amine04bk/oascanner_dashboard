@@ -1,0 +1,39 @@
+.table-component {
+    margin: 20px 0;
+  }
+  
+  .search-bar-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .date-picker {
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .reset-button {
+    margin-left: 30px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .show-more-button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
